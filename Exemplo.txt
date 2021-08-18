@@ -1,6 +1,8 @@
 Teste de commit
 
-Mais Teste
+Linha nova!
+
+Mais Teste com alterações...
 
 
 Fim!
